@@ -6,7 +6,7 @@ Previously, I completed a master's degree in **Hydrology and Water Resources at 
 
 I have independently led the technical delivery of a reservoir forecasting and operation system and contributed to river-network modelling in the Taihu Basin. At Lund, my coursework has expanded into river hydraulics, urban drainage, land-cover and evapotranspiration analysis, lake flood routing, and outfall engineering design.
 
-**Links:** [Email](mailto:ti1207zh-s@student.lu.se) · [Personal website](https://zhangtt19.github.io/) · [CV](https://zhangtt19.github.io/cv.pdf)
+**Links:** [Email](mailto:ti1207zh-s@student.lu.se) · [LinkedIn](https://www.linkedin.com/in/tianshu-zhang-ba9156380/) · [Personal website](https://zhangtt19.github.io/) · [Projects](https://zhangtt19.github.io/#projects) · [CV](https://zhangtt19.github.io/cv.pdf)
 
 ## Research & engineering interests
 
@@ -18,15 +18,15 @@ I have independently led the technical delivery of a reservoir forecasting and o
 
 - **Tangma Reservoir forecasting and operation system** · Independent technical lead, 2023–2024. Built a distributed Xin’anjiang model for a **39.9 km² catchment**, reconstructed missing inflow records, and led calibration, validation, deployment, and technical support.
 - **Taihu Basin river-network change and flood risk** · Core modelling and analysis contributor, 2022–2025. Updated a TBM model with **1,458 channels** and compared three operating strategies. Peak water-level absolute errors at three stations were **2–6 cm during the 2018 validation period**.
-- **Water resources engineering coursework at Lund** · 2025–2026. Applied **HEC-RAS, MIKE+, Python, and GIS** to river hydraulics, urban drainage, extreme-event scenarios, land-cover change, and engineering design.
+- **Flood risk and mitigation modelling at Lund University** · Selected academic projects, 2025–2026. Evaluated **88 rainfall and snowmelt scenarios for a 340 km² catchment** using shared group-calibrated parameters, then compared lake flood routing for **8, 16 and 32 km² lake areas**. The 16 km² scenario produced **approximately 49–57% simulated peak reduction for selected events**. In complementary projects, built a **9 km HEC-RAS river model** to examine discharge and sea-level effects, and used **MIKE+** to compare pipe and storage alternatives under increased rainfall and impervious cover.
 
 See my [personal website](https://zhangtt19.github.io/#projects) for project methods, results, and their assumptions.
 
 ## Selected publications & patent
 
-- **Zhang, T.**, Jin, J., Qian, Y., et al. (2025). Research on Dynamic Trend Prediction Method for Flow Discharge Through Harbor Gates in Tidal Reaches. *Water*, 17(9), 1248.
+- **Zhang, T.**, Jin, J., Qian, Y., et al. (2025). [Research on Dynamic Trend Prediction Method for Flow Discharge Through Harbor Gates in Tidal Reaches](https://doi.org/10.3390/w17091248). *Water*, 17(9), 1248.
 - 陈钢，**张天舒**，俞悦，等. (2025). 非线性马斯京根法在山区小流域数字孪生中的应用. *水资源保护*, 41(6), 12–17.
-- Chen, G., Yu, Y., **Zhang, T.**, et al. (2025). A Distributed Unit Hydrograph Modeling for Flood Simulation in the Plain River Network Regions. *Journal of the American Water Resources Association*, 61(3), e70029.
+- Chen, G., Yu, Y., **Zhang, T.**, et al. (2025). [A Distributed Unit Hydrograph Modeling for Flood Simulation in the Plain River Network Regions](https://doi.org/10.1111/1752-1688.70029). *Journal of the American Water Resources Association*, 61(3), e70029.
 - 俞悦，**张天舒**，方立超，等. (2025). 感潮河段港闸流量动态变化计算方法研究. *水资源与水工程学报*, 36(5), 135–143.
 - **Granted invention patent (co-inventor):** 一种堰闸过流流量动态预测方法及系统 · CN119578220B (2025).
 
@@ -43,6 +43,6 @@ See my [personal website](https://zhangtt19.github.io/#projects) for project met
 
 我的工作与研究方向包括水文与水动力建模、洪水风险评估和地理空间分析，经历覆盖现场观测、缺失数据重构、模型率定验证、情景分析、系统部署和技术报告编制。曾独立负责塘马水库预报调度系统的技术实施，并参与太湖流域河网变化与洪涝风险研究。
 
-[查看中英双语个人网站](https://zhangtt19.github.io/) · [邮件联系](mailto:ti1207zh-s@student.lu.se)
+[查看中英双语个人网站](https://zhangtt19.github.io/) · [LinkedIn](https://www.linkedin.com/in/tianshu-zhang-ba9156380/) · [邮件联系](mailto:ti1207zh-s@student.lu.se)
 
 </details>
