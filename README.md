@@ -6,7 +6,7 @@ Previously, I completed a master's degree in **Hydrology and Water Resources at 
 
 I have independently led the technical delivery of a reservoir forecasting and operation system and contributed to river-network modelling in the Taihu Basin. At Lund, my coursework has expanded into river hydraulics, urban drainage, land-cover and evapotranspiration analysis, lake flood routing, and outfall engineering design.
 
-**Links:** [Email](mailto:ti1207zh-s@student.lu.se) · [LinkedIn](https://www.linkedin.com/in/tianshu-zhang-ba9156380/) · [Personal website](https://zhangtt19.github.io/) · [Projects](https://zhangtt19.github.io/#projects) · [CV](https://zhangtt19.github.io/cv.pdf)
+**Links:** [Email](mailto:ti1207zh-s@student.lu.se) · [Google Scholar](https://scholar.google.com/citations?user=3hzB4O0AAAAJ) · [ORCID](https://orcid.org/0009-0004-0869-3785) · [LinkedIn](https://www.linkedin.com/in/tianshu-zhang-ba9156380/) · [Personal website](https://zhangtt19.github.io/) · [Projects](https://zhangtt19.github.io/#projects) · [CV](https://zhangtt19.github.io/cv.pdf)
 
 ## Research & engineering interests
 
