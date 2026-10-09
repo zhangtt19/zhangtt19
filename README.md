@@ -25,10 +25,10 @@ See my [personal website](https://zhangtt19.github.io/#projects) for project met
 ## Selected publications & patent
 
 - **Zhang, T.**, Jin, J., Qian, Y., et al. (2025). [Research on Dynamic Trend Prediction Method for Flow Discharge Through Harbor Gates in Tidal Reaches](https://doi.org/10.3390/w17091248). *Water*, 17(9), 1248.
-- 陈钢，**张天舒**，俞悦，等. (2025). 非线性马斯京根法在山区小流域数字孪生中的应用. *水资源保护*, 41(6), 12–17.
+- Chen, G., **Zhang, T.**, Yu, Y., et al. (2025). Application of the nonlinear Muskingum method in a digital twin of a small mountainous catchment. *Water Resources Protection*, 41(6), 12–17. (in Chinese)
 - Chen, G., Yu, Y., **Zhang, T.**, et al. (2025). [A Distributed Unit Hydrograph Modeling for Flood Simulation in the Plain River Network Regions](https://doi.org/10.1111/1752-1688.70029). *Journal of the American Water Resources Association*, 61(3), e70029.
-- 俞悦，**张天舒**，方立超，等. (2025). 感潮河段港闸流量动态变化计算方法研究. *水资源与水工程学报*, 36(5), 135–143.
-- **Granted invention patent (co-inventor):** 一种堰闸过流流量动态预测方法及系统 · CN119578220B (2025).
+- Yu, Y., **Zhang, T.**, Fang, L., et al. (2025). A method for calculating dynamic changes in discharge through harbour gates in tidal reaches. *Journal of Water Resources and Water Engineering*, 36(5), 135–143. (in Chinese)
+- **Granted invention patent (co-inventor):** Dynamic prediction method and system for discharge through weirs and sluice gates. CN119578220B (2025).
 
 ## Tools & languages
 
