@@ -8,6 +8,14 @@ I have independently led the technical delivery of a reservoir forecasting and o
 
 **Links:** [Email](mailto:ti1207zh-s@student.lu.se) · [Google Scholar](https://scholar.google.com/citations?user=3hzB4O0AAAAJ) · [ORCID](https://orcid.org/0009-0004-0869-3785) · [LinkedIn](https://www.linkedin.com/in/tianshu-zhang-ba9156380/) · [Personal website](https://zhangtt19.github.io/) · [Projects](https://zhangtt19.github.io/#projects) · [CV](https://zhangtt19.github.io/cv.pdf)
 
+## Featured code & engineering work
+
+### [Tidal Gate Forecasting & Discharge Estimation](https://github.com/zhangtt19/tidal-gate-forecasting)
+
+A runnable **physics-guided machine-learning project** built from my first-author research: four tidal gates, 1,309 field records, neural-network estimation and rolling forecasts. Includes Python code, traceable data, cross-year evaluation, simple baselines and automated tests. The new implementation is clearly distinguished from the original proprietary training software and the paper's reported results.
+
+[Code & results](https://github.com/zhangtt19/tidal-gate-forecasting) · [中文介绍](https://github.com/zhangtt19/tidal-gate-forecasting/blob/main/README.zh-CN.md) · [Paper](https://doi.org/10.3390/w17091248)
+
 ## Research & engineering interests
 
 - Rainfall–runoff modelling, reservoir forecasting, and flood routing.
