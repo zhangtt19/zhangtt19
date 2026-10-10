@@ -8,13 +8,13 @@ I have independently led the technical delivery of a reservoir forecasting and o
 
 **Links:** [Email](mailto:ti1207zh-s@student.lu.se) · [Google Scholar](https://scholar.google.com/citations?user=3hzB4O0AAAAJ) · [ORCID](https://orcid.org/0009-0004-0869-3785) · [LinkedIn](https://www.linkedin.com/in/tianshu-zhang-ba9156380/) · [Personal website](https://zhangtt19.github.io/) · [Projects](https://zhangtt19.github.io/#projects) · [CV](https://zhangtt19.github.io/cv.pdf)
 
-## Featured code & engineering work
+## Featured research & engineering work
 
-### [Tidal Gate Forecasting & Discharge Estimation](https://github.com/zhangtt19/tidal-gate-forecasting)
+### [Dynamic Trend Prediction of Tidal-Gate Discharge](https://github.com/zhangtt19/tidal-gate-forecasting)
 
-A runnable **physics-guided machine-learning project** built from my first-author research: four tidal gates, 1,309 field records, neural-network estimation and rolling forecasts. Includes Python code, traceable data, cross-year evaluation, simple baselines and automated tests. The new implementation is clearly distinguished from the original proprietary training software and the paper's reported results.
+A research case study from my first-author Water paper and associated patent: constructing six water-level and temporal-change inputs, learning a dynamic discharge coefficient with a 6–5–1 BP neural network, and evaluating four tidal gates, including gate-opening and gate-closing events. Includes the method, reported network settings, original result tables, figures and observation data.
 
-[Code & results](https://github.com/zhangtt19/tidal-gate-forecasting) · [中文介绍](https://github.com/zhangtt19/tidal-gate-forecasting/blob/main/README.zh-CN.md) · [Paper](https://doi.org/10.3390/w17091248)
+[Research project](https://github.com/zhangtt19/tidal-gate-forecasting) · [中文介绍](https://github.com/zhangtt19/tidal-gate-forecasting/blob/main/README.zh-CN.md) · [Paper](https://doi.org/10.3390/w17091248)
 
 ## Research & engineering interests
 
